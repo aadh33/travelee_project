@@ -43,6 +43,10 @@
     width: 60vw;
     justify-content: end;
     margin-right: 2rem;
+    transition-property: width;
+    transition-duration: 2s;
+    transition-timing-function: linear;
+    transition-delay: 1s
   }
   
   .nav-item {
